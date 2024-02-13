@@ -13,5 +13,6 @@
 @media (max-width: 768px) {
   .catDataContainer {
     width: 95%;
+    margin: 10px auto;
   }
 }
